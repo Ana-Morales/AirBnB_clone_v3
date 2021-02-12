@@ -159,6 +159,13 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
+---
+
+## authors of modifications
+
+Ana Ruth Morales Garcia - [Github](https://github.com/Ana-Morales) / [Twitter](https://twitter.com/San_Mor_)
+Ronald Antonio Aguirre - [Github](https://github.com/ronald0204) / [Twitter](https://twitter.com/ronald45251997)
+
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
